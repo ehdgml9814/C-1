@@ -1,5 +1,5 @@
 #include <math.h>
-double stand(int* num)
+double stand(int num)
 {
 	double sum = 0;
 	int i;
